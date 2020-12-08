@@ -28,6 +28,7 @@ The greatest decrease in losses (date and amount) over the entire period
 
 
 Below is an excerpt of the analysis:
+
 Financial Analysis
 ----------------------------
 Total Months: 86 
@@ -72,6 +73,7 @@ The winner of the election based on popular vote.
 
 
 The following is an example of the analysis:
+
 Election Results
 -------------------------
 Total Votes: 3521001
