@@ -11,7 +11,7 @@ print(budget_df)
 # Calculate the total number of months
 num_months = budget_df["Date"].count()
 print(f"Total number of months: {num_months}")
-    #Total number of months: 86
+    # Total number of months: 86
 
 # Calculate the net total amount of "Profit/Losses" over the entire period
 net_total = budget_df["Profit/Losses"].sum()
